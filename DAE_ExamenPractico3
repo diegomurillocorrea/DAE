@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-24T18:16:49.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="_hFg-9J8nrunGpIY3Kxd" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-24T18:19:10.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="GHS3uFVR4iNWZI5h01xR" version="15.5.9" type="github">
   <diagram id="KMW5WzoWAQdjzHd-NLIz" name="Page-1">
-    <mxGraphModel dx="1458" dy="163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="289" dy="163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,34 +23,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P3e2Mf9j9YhfknetEwLq-1" value="Alumno" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P3e2Mf9j9YhfknetEwLq-2" value="Notas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P3e2Mf9j9YhfknetEwLq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;curved=1;" edge="1" parent="1" source="P3e2Mf9j9YhfknetEwLq-3" target="P3e2Mf9j9YhfknetEwLq-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P3e2Mf9j9YhfknetEwLq-3" value="tiene" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="150" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P3e2Mf9j9YhfknetEwLq-6" value="id_student" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="110" y="100" width="100" height="40" as="geometry" />
+          <mxGeometry x="210" y="60" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P3e2Mf9j9YhfknetEwLq-7" value="carnet_student" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="-20" y="110" width="100" height="40" as="geometry" />
+          <mxGeometry x="80" y="70" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P3e2Mf9j9YhfknetEwLq-8" value="name_student" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="-50" y="170" width="100" height="40" as="geometry" />
+          <mxGeometry x="50" y="130" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P3e2Mf9j9YhfknetEwLq-9" value="lastName_student" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="-30" y="230" width="110" height="40" as="geometry" />
+          <mxGeometry x="70" y="190" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P3e2Mf9j9YhfknetEwLq-10" value="age_student" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="85" y="250" width="110" height="40" as="geometry" />
+          <mxGeometry x="185" y="210" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P3e2Mf9j9YhfknetEwLq-19" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;carnet_student&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="410" y="100" width="100" height="40" as="geometry" />
+          <mxGeometry x="510" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P3e2Mf9j9YhfknetEwLq-20" value="id_nota" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="630" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P3e2Mf9j9YhfknetEwLq-21" value="nota_1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P3e2Mf9j9YhfknetEwLq-22" value="nota_2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="205" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P3e2Mf9j9YhfknetEwLq-23" value="nota_3" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
